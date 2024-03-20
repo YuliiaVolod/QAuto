@@ -1,11 +1,11 @@
 [
     {
-        "BaseURL": "https://qauto.forstudy.space/",
+        "BaseURL": "https://qauto.forstudy.space",
         "password": "welcome2qauto",
         "login": "guest"
     },
     {
-        "BaseURL": "https://qauto2.forstudy.space/",
+        "BaseURL": "https://qauto2.forstudy.space",
         "password": "welcome2qauto",
         "login": "guest"
     }
